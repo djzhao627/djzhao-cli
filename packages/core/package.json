@@ -1,6 +1,6 @@
 {
   "name": "@djzhao-cli/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "djzhao cli core",
   "author": "djzhao <djzhao627@gmail.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@djzhao-cli/utils": "^0.1.0"
+    "@djzhao-cli/utils": "^0.1.1"
   }
 }
