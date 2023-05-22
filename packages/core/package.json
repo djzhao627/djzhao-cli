@@ -19,5 +19,8 @@
   "dependencies": {
     "@djzhao-cli/utils": "^0.1.2"
   },
-  "gitHead": "c9c2c4c7f8682540c333bfccce96a71abc8c677f"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "cda30491c65918888d3203d0d4b855fdf9297404"
 }
