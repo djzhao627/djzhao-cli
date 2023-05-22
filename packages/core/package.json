@@ -1,0 +1,22 @@
+{
+  "name": "@djzhao-cli/core",
+  "version": "0.1.0",
+  "description": "djzhao cli core",
+  "author": "djzhao <djzhao627@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@djzhao-cli/utils": "^0.1.0"
+  }
+}
